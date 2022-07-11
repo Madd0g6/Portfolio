@@ -109,41 +109,59 @@ h5 {
 }
 .wrapper_skills {
     margin-top: 50px;
-    height: 230px;
     display: flex;
-    justify-content:center;
+    justify-content: space-around;
 
 }
 
 .wrapper_skills_ps{
     width: 170px;
+    height: 230px;
+    margin: auto;
     margin: 0 97px 0 0;
 }
 
-.wrapper_skills_box{
+.skills_ps{
     width: 80px;
     height: 143px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 0px;
+    margin: auto;
+    margin-bottom: 60px;
+
 }
 
 .wrapper_skills_ai {
-    text-align: center;
     margin: 0 97px 0 0;
     width: 170px;
+    height: 230px;
+}
+.skills_ai {
+    width: 80px;
+    height: 143px;
+    margin: auto;
+    margin-bottom: 60px;
 }
 
 .wrapper_skills_ae {
-    text-align: center;
     margin: 0 97px 0 0;
     width: 170px;
+    height: 230px;
+}
+.skills_ae {
+    width: 90px;
+    height: 143px;
+    margin: auto;
+    margin-bottom: 60px;
 }
 
 .wrapper_skills_figma {
-    text-align: center;
     width: 170px;
+    height: 230px;
+}
+.skills_figma {
+    width: 54px;
+    height: 124px;
+    margin: auto;
+    margin-bottom: 80px;
 }
 
 .Portfolio {
